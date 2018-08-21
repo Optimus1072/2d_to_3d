@@ -345,3 +345,9 @@ IMAGINE/
 # weights and such
 *.weights
 *.conv.23
+
+# ipython stuff
+.ipynb_checkpoints/
+
+# also no output please
+output/
