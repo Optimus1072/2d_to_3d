@@ -328,3 +328,12 @@ ASALocalRun/
 
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
+
+# images
+*.png
+*.jpeg
+*.jpg
+*.tif
+
+# pycharm
+.idea/
