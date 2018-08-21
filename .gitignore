@@ -338,8 +338,9 @@ ASALocalRun/
 # pycharm
 .idea/
 
-# LINEMOD
+# LINEMOD and IMAGINE datasets
 LINEMOD/
+IMAGINE/
 
 # weights
 *.weights
